@@ -6,6 +6,7 @@ public class HargaBayar25 {
         int  jmlHlmBuku, harga, jumlah;
         double dis, total, bayar, jmlDis;
         String merkBuku;
+        
 
         System.out.println("Masukkan Merk Buku ");
         merkBuku=input.nextLine();
